@@ -6,7 +6,7 @@ My name is Kaitlyn and I'm a cool person I fink. I'm from 127.0.0.1, and current
 
 ## &#x270d; Dream
 
-Apart from coding, I also maintain a bawter net, you can find my articles on my website at [dreamsolutions.xyz](https://dreamsolutions.xyz/)
+Apart from coding, I also maintain a bawter net, you can find more on my website at [dreamsolutions.xyz](https://dreamsolutions.xyz/)
 
 ## 🔧 Tools & Interest
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)

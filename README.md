@@ -1,6 +1,6 @@
 <!-- Topper -->
 
-# Welcome, scids! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Welcome, scids! <img src="https://e.rip/uploads/favicons/ec3165431be1a1dd694d60f2029b381c.gif" width="30px">
 
 My name is Kaitlyn and I'm a cool person I fink. I'm from 127.0.0.1, and currently working at Virmach with Archs. You can find me on Discord BLU3#1337 ![alt text](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white)
 

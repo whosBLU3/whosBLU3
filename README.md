@@ -2,7 +2,7 @@
 
 # Welcome, scids! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Kaitlyn and I'm a cool person I fink. I'm from 127.0.0.1, and currently working at Virmach with Archs. You can find me on ![alt text](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white)
+My name is Kaitlyn and I'm a cool person I fink. I'm from 127.0.0.1, and currently working at Virmach with Archs. You can find me on ![alt text](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white) @ BLU3#1337
 
 ## &#x270d; Dream
 

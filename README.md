@@ -6,7 +6,7 @@ My name is Kaitlyn and I'm a cool person. I fink I'm lost...
 
 ## &#x270d; Dream [Reborn?]
 
-I kinda spend time doing my own thing now
+I kinda spend time doing my own thing now, I may become active once again.
 
 ## 🔧 Tools & Interest
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)

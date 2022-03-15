@@ -2,15 +2,16 @@
 
 # Welcome, scids! <img src="https://e.rip/uploads/favicons/ec3165431be1a1dd694d60f2029b381c.gif" width="60px">
 
-My name is Kaitlyn and I'm a cool person I fink. I'm from 127.0.0.1, and currently working at Virmach with Archs. You can find me on Discord BLU3#2502 ![alt text](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white)
+My name is Kaitlyn and I'm a cool person. I fink I'm lost... [alt text](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white)
 
 ## &#x270d; Dream
 
-Apart from coding, I also maintain a bawter net, you can find more on my website at [dreamsolutions.xyz](http://dreamsolutions.xyz/)
+I kinda spend time doing my own thing now
 
 ## 🔧 Tools & Interest
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 

@@ -4,7 +4,7 @@
 
 My name is Kaitlyn and I'm a cool person. I fink I'm lost...
 
-## &#x270d; Dream
+## &#x270d; Dream [Reborn?]
 
 I kinda spend time doing my own thing now
 

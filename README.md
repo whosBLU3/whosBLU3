@@ -2,7 +2,33 @@
 
 # Welcome, scids! <img src="https://e.rip/uploads/favicons/ec3165431be1a1dd694d60f2029b381c.gif" width="60px">
 
-My name is Kaitlyn and I'm a cool person. I fink I'm lost...
+My name is Kaitlyn and I'm a cool person, sometimes...
+
+```zsh
+> neofetch
+```
+
+<img align="left" src="https://pbs.twimg.com/media/DCJPaoMWAAM8Pja?format=jpg&name=small" alt="logo.png" width="200" /> 
+
+```csharp
+whosblu3@github
+----------------
+       OS  :  Ubuntu 20.04.2 LTS x86_64
+       WM  :  Haxor
+ Terminal  :  El-Terminal Haxor Edition
+      CPU  :  Currently On Fire
+    Alias  :  BLU3
+Languages  :  Python, Go
+```
+
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/ADBAC7/000000?text=+" width="25" height="20" />
+  <img alt="#fbedf6" src="https://via.placeholder.com/15/6CB6FF/000000?text=+" width="25" height="20" />
+  <img alt="#c9594d" src="https://via.placeholder.com/15/F47067/000000?text=+" width="25" height="20" />
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/DCBDFB/000000?text=+" width="25" height="20" />
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/57ab5a/000000?text=+" width="25" height="20" />
+</p>
 
 ## &#x270d; Dream [Reborn?]
 

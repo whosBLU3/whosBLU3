@@ -8,15 +8,28 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.ibb.co/JxmLpKp/logo-1.png" alt="logo.png" width="200" /> 
+<img align="left" src="https://i.ibb.co/M9739LW/amogos-banner-old.png" alt="logo.png" width="200" /> 
 
 ```csharp
 whosBLU3@github
 ----------------
-       OS  :  Heker 13.37 x86_64
+       OS  :  AmongOS 13.37-SUS x86_64
        WM  :  Haxor
  Terminal  :  El-Terminal Haxor Edition
-      CPU  :  Currently On Fire
+      CPU  :  intel pentium d oc to 8.5Ghz i have no house now
+   Cooler  :  None
+      GPU  :  gt 730 with no heat sink bitch is fire
+      RAM  :  2x512mb ddr2 oc to 400Mhz
+      PSU  :  250w sparkle power from a dell office pc i salvaged
+     Case  :  pvc pipe and duct tape
+  Monitur  :  90in 8k samsung smart tv
+ Keyboard  :  onscreen keyboard
+    Mouse  :  gamer mouse
+ Mousepad  :  painted cardboard
+     hdmi  :  no
+      vga  :  yes
+      dvi  :  no
+   status  :  getting the bag
     Alias  :  BLU3
 Languages  :  Python, Go
 ```

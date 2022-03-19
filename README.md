@@ -13,7 +13,7 @@ My name is Kaitlyn and I'm a cool person, sometimes...
 ```csharp
 whosBLU3@github
 ----------------
-       OS  :  Ubuntu 20.04.2 LTS x86_64
+       OS  :  Heker 13.37 x86_64
        WM  :  Haxor
  Terminal  :  El-Terminal Haxor Edition
       CPU  :  Currently On Fire

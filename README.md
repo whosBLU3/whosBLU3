@@ -47,3 +47,9 @@ I kinda spend time doing my own thing now, I may become active once again.
 <a href="https://github.com/whosBLU3/whosBLU3">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=whosBLU3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="whosBLU3 GitHub Stats" />
 </a>
+
+<h2 align="center">🐈 Discord</h2>
+
+<a href="https://discord.com/users/948269283404824596">
+    <p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/948269283404824596"></p>
+</a>

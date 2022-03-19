@@ -2,7 +2,7 @@
 
 # Welcome, scids! <img src="https://e.rip/uploads/favicons/ec3165431be1a1dd694d60f2029b381c.gif" width="60px">
 
-My name is Kaitlyn and I'm a cool person, sometimes...
+*dies*
 
 ```zsh
 > neofetch

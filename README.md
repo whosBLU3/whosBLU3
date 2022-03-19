@@ -8,7 +8,7 @@ My name is Kaitlyn and I'm a cool person, sometimes...
 > neofetch
 ```
 
-<img align="left" src="https://ibb.co/PTFpWNW" alt="logo.png" width="200" /> 
+<img align="left" src="https://i.ibb.co/JxmLpKp/logo-1.png" alt="logo.png" width="200" /> 
 
 ```csharp
 whosBLU3@github

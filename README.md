@@ -8,7 +8,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.ibb.co/M9739LW/amogos-banner-old.png" alt="logo.png" width="200" /> 
+<img align="left" src="https://i.ibb.co/M9739LW/amogos-banner-old.png" alt="logo.png" width="400" /> 
 
 ```csharp
 whosBLU3@github

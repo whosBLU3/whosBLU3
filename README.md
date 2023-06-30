@@ -30,7 +30,7 @@ Languages  :  Python, Go
 </p>
 
 ## &#x270d; Whar
-![](`(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCIEQ7bEuRxM%2Fhqdefault.jpg&f=1&nofb=1&ipt=30ad810f0601013088fb9fe2f67c315584b68f00269da9d7efa032b2a17c8918&ipo=images)`)
+![](`https://ibb.co/DQHHGNT`)
 
 ## 🔧 Tools & Interest
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)

@@ -30,7 +30,7 @@ Languages  :  Python, Go
 </p>
 
 ## &#x270d; Whar
-<img align="left" src="https://imgur.com/tvHor2Y" alt="whar.jpg" width="400" /> 
+![Image](https://imgur.com/tvHor2Y.jpg)
 
 ## 🔧 Tools & Interest
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
